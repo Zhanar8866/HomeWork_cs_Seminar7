@@ -1,0 +1,15 @@
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\bin\Debug\net7.0\DZ_03_Zadacha52.exe
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\bin\Debug\net7.0\DZ_03_Zadacha52.deps.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\bin\Debug\net7.0\DZ_03_Zadacha52.runtimeconfig.json
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\bin\Debug\net7.0\DZ_03_Zadacha52.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\bin\Debug\net7.0\DZ_03_Zadacha52.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\obj\Debug\net7.0\DZ_03_Zadacha52.csproj.AssemblyReference.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\obj\Debug\net7.0\DZ_03_Zadacha52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\obj\Debug\net7.0\DZ_03_Zadacha52.AssemblyInfoInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\obj\Debug\net7.0\DZ_03_Zadacha52.AssemblyInfo.cs
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\obj\Debug\net7.0\DZ_03_Zadacha52.csproj.CoreCompileInputs.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\obj\Debug\net7.0\DZ_03_Zadacha52.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\obj\Debug\net7.0\refint\DZ_03_Zadacha52.dll
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\obj\Debug\net7.0\DZ_03_Zadacha52.pdb
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\obj\Debug\net7.0\DZ_03_Zadacha52.genruntimeconfig.cache
+C:\Users\BCC\Desktop\GB практика\03_Знакомство с языками программирования\Семинар 07. C# Думерные массивы\DZ\DZ_03_Zadacha52\obj\Debug\net7.0\ref\DZ_03_Zadacha52.dll
