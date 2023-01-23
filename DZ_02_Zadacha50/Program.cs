@@ -56,7 +56,7 @@ void FindNumber(int[,] inArray, int find)
             if (inArray[i,j] == find) s+=1;
         }
     }
-    if (s != 0) Console.Write("Такое число в массиве имеется");
+    if (s != 0) Console.Write($"Число {find} в массиве имеется");
     else 
     {
         Console.Write("Такого числа в массиве нет");
